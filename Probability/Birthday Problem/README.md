@@ -4,7 +4,7 @@ This mini-project explores the classic **Birthday Problem**:
 
 > How many people need to be in a room before there is at least a 50% probability that at least two people share a birthday?
 
-The result shows that the probability first exceeds 50% when there are **23 people** in the room.
+The result shows that the probability **first exceeds 50%**  when there are **23 people** in the room.
 
 ---
 
