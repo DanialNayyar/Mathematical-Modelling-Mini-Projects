@@ -22,27 +22,33 @@ The script calculates the probability from 1 to a chosen value of n then plots t
 ```
 
 ## Features
+```
 - Calculates the probaility that at atleast two people share a birthday
 - Finds the minimum value of n where the probabilty exceeds 50%
 - Plots the probability against the number of people
 - The 50% line is hihglighted
 - The first crossing point over 50% is also marked on the graph for clarity
-
+```
 
 ## Output
+```
 - Minimum number of people required is: 23
   - When n is 22, the Probability of more than two people are sharing a birthday: 0.4756953076625501
   - When n is 23, the Probability of more than two people are sharing a birthday: 0.5072972343239854
   - When n is 24, the Probability of more than two people are sharing a birthday: 0.5383442579145288
- 
+ ```
 
 ## How to Run
+```
 - Install matplotlib (requirement for the plotting function)
 - Run the script
+```
 
 # Notes:
+```
 Project was created as part of my probability and mathematical modelling practice. It reinforced:
 - Complementary probability
 - Factorial based counting
 - Translating maths into code
 - Plotting and interpreting probabilty curves
+```
